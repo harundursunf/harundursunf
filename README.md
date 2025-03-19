@@ -1,7 +1,7 @@
-# 💫 About Me:
-🌱 I’m currently learning React and Node.js<br/>
-🚀 Focusing on becoming a full-stack developer<br/>
-💡 Passionate about building impactful web applications<br/>
+  # 💫 About Me:
+ 🌱 I’m currently learning React and C# .NET for backend development<br/>
+  🚀 Focusing on becoming a full-stack developer<br/>
+  💡 Passionate about building impactful web applications<br/>
 
 
 ## 🌐 Socials:
