@@ -38,11 +38,5 @@
 
 ---
 
-## 🔗 Visitor Count
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=harundursunf&label=Profile%20Views&color=0&icon=0&pretty=true" />
-  </a>
-</p>
 
 <!-- Powered by GPRM (https://gprm.itsvg.in) -->
